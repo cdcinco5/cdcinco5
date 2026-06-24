@@ -1,3 +1,7 @@
+<p align="left">
+  <img src="./Images/Banner.png" alt="Banner" width="1100" height="500" style="object-fit: cover;">
+</p>
+
 # Hi there, I'm Cedrick D. Cinco 👋
 
 **Aspiring Cybersecurity Professional** | Computer Engineering Graduate (Specialization in Cybersecurity) | Passionate about Network Security, Incident Response & Secure Development
