@@ -2,12 +2,16 @@
   <img src="./Images/Banner.png" alt="Banner" width="1100" height="500" style="object-fit: cover;">
 </p>
 
-# Hi there, I'm Cedrick D. Cinco 👋
+# Hi there, I'm Cedrick D. Cinco 
 
 **Aspiring Cybersecurity Professional** | Computer Engineering Graduate (Specialization in Cybersecurity) | Passionate about Network Security, Incident Response & Secure Development
-<!--
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=brightgreen) [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile) [![Resume](https://img.shields.io/badge/Resume-PDF-red?style=flat)](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/main/Resume-YourName.pdf)
--->
+
+---
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](linkedin.com/in/cdcinco) 
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-0A2540?style=flat&logo=tryhackme&logoColor=white)]((https://tryhackme.com/p/cdcinco))
+[![Credly](https://img.shields.io/badge/Credly-FF6B00?style=flat&logo=credly&logoColor=white)](https://www.credly.com/users/cdcinco)
+
 ---
 
 ### 🛡️ About Me
@@ -50,7 +54,7 @@ I'm a recent Computer Engineering graduate specializing in Cybersecurity. I have
 - Optimized UI/UX and application performance.
 - [View Repository](...)
 
-*(Add 1-2 more cybersecurity-focused projects or TryHackMe room writeups here)*
+
 
 ---
 
@@ -73,15 +77,8 @@ I'm a recent Computer Engineering graduate specializing in Cybersecurity. I have
 - Cybersecurity Essentials
 - CCNAv7: Enterprise Networking, Security, and Automation
 - Network Security
-- (In Progress) Junior Cybersecurity Analyst Path<!--*(Add badge images here using shields.io or direct links)*-->
+- (In Progress) Junior Cybersecurity Analyst Path
 
----
-
-### 📫 Let's Connect!
-- Email: cdcocin5@gmail.com
-- LinkedIn: [links](linkedin.com/in/cdcinco)
-- TryHackMe: [links](https://tryhackme.com/p/cdcinco)
-- Credly: [links](https://www.credly.com/users/cdcinco)
 ---
 
 *Last updated: June 2026*
