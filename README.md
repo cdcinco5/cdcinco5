@@ -7,15 +7,15 @@
 ---
 
 ### 🛡️ About Me
-I'm a recent Computer Engineering graduate with hands-on experience in **incident handling**, **network security**, and **secure software development**. I thrive in high-volume operational environments and love applying my skills to solve real security challenges.
+I'm a recent Computer Engineering graduate specializing in Cybersecurity. I have a strong passion in cyberssecurity and currently making myself more equipped for the field.
 
 - 🔭 Currently building projects in **computer vision for security** and **web application security**.
-- 🌱 Learning **penetration testing**, **SIEM tools**, and **cloud security**.
+- 🌱 Learning **SIEM tools**, and **cloud security** through online resources
 - 📫 Open to **entry-level cybersecurity / SOC / junior developer** opportunities.
 
 ---
 
-### 🛠️ Skills & Technologies
+### 🛠️ Skills 
 
 **Networking & Cybersecurity**
 - Incident Handling • TCP/IP • Routing & Switching • Packet Analysis (Wireshark) • Network Security • Active Directory
@@ -25,7 +25,7 @@ I'm a recent Computer Engineering graduate with hands-on experience in **inciden
 - **Languages**: Python, JavaScript, TypeScript
 - **Stack**: MERN (MongoDB, Express, React, Node.js)
 - **Databases**: MySQL
-- **Other**: Git, YOLOv8, Raspberry Pi, Linux, Data Visualization, Docker (learning)
+- **Other**: Git, YOLOv8, Raspberry Pi, Linux, Data Visualization
 
 ---
 
@@ -50,35 +50,34 @@ I'm a recent Computer Engineering graduate with hands-on experience in **inciden
 
 ---
 
-### 📜 Certifications
-- **TryHackMe** – <!--
-  [Profile Link]([your-tryhackme-lin](https://tryhackme.com/p/cdcinco)k) *(list completed paths: e.g., Complete Beginner, Pre Security, etc.)*-->
-- **Coursera** – <!--[Google Cybersecurity Certificate / specific courses]-->
-- **Net Academy** – <!--[Relevant networking/security courses]-->
-- <!--*(Add badge images here using shields.io or direct links)*-->
+### 📜 Certifications/Courseworks
+**TryHackMe**
+- (In Progress) Pre Security Path
+- (In Progress) Cybersecurity 101
+- (In Progress) SOC Level 1
+  
+**Coursera** 
+- Python for Cybersecurity
+- Design Thinking for the Greater Good: Innovation in the Social Sector
+- Design Thinking for Innovation
+- Introduction to Data Science in Python
+- Applied Plotting, Charting & Data Representation in Python
+- (In Progress) IBM Cybersecurity Analyst Professional
+
+**Net Academy**
+- Introduction to Cybersecurity
+- Cybersecurity Essentials
+- CCNAv7: Enterprise Networking, Security, and Automation
+- Network Security
+- (In Progress) Junior Cybersecurity Analyst Path<!--*(Add badge images here using shields.io or direct links)*-->
 
 ---
 
 ### 📫 Let's Connect!
 - Email: cdcocin5@gmail.com
-- LinkedIn: [linkedin.com/in/cdcinco]
+- LinkedIn: [links](linkedin.com/in/cdcinco)
 - TryHackMe: [links](https://tryhackme.com/p/cdcinco)
-
+- Credly: [links](https://www.credly.com/users/cdcinco)
 ---
 
 *Last updated: June 2026*
-
-<!--
-**cdcinco5/cdcinco5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
