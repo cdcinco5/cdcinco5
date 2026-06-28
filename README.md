@@ -60,7 +60,7 @@ I'm a recent Computer Engineering graduate specializing in Cybersecurity. I have
 
 ### 📜 Certifications/Courseworks
 **TryHackMe**
-- (In Progress) Pre Security Path
+- Pre Security Path
 - (In Progress) Cybersecurity 101
 - (In Progress) SOC Level 1
   
