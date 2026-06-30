@@ -40,17 +40,14 @@ I'm a recent Computer Engineering graduate specializing in Cybersecurity. I have
 ### 🚀 Featured Projects
 
 **Academic Paper**
-- Abaca Blend Fabric Classification Using Yolov8 Architecture
-  [View Paper](https://doi.org/10.3390/engproc2025092042)
+- Abaca Blend Fabric Classification Using Yolov8 Architecture -
+[Link to Paper](https://doi.org/10.3390/engproc2025092042)
 
 **Programming**
-- Disease Analytics Dashboard
-  [View Repository](...)
+- Disease Analytics Dashboard -
+[Link to Repo](...)
 
-**CyberSecurity**
-- *Work in Progress*
-- [View Repository](...)
-
+**CyberSecurity (In Progress)**
 
 
 ---
