@@ -39,19 +39,16 @@ I'm a recent Computer Engineering graduate specializing in Cybersecurity. I have
 
 ### 🚀 Featured Projects
 
-**Abaca Fabric Blend Classification Using YOLOv8 (Thesis + Publication)**
-- Built real-time object detection system on **Raspberry Pi 4** using **YOLOv8**.
-- Curated & preprocessed 4,000+ image dataset → improved accuracy by **20%** (final **95%** accuracy)
-- [Paper](https://doi.org/10.3390/engproc2025092042)
+**Academic Paper**
+- Abaca Blend Fabric Classification Using Yolov8 Architecture
+  [View Paper](https://doi.org/10.3390/engproc2025092042)
 
-**Disease Analytics Dashboard**
-- Developed interactive dashboard for Coronavirus data analysis using **Python + MySQL**.
-- Implemented advanced data visualization techniques.
-- [View Repository](...)
+**Programming**
+- Disease Analytics Dashboard
+  [View Repository](...)
 
-**MERN Stack Web & Mobile Application (Bridge 360 Internship)**
-- Developed responsive front-end features and integrated third-party libraries.
-- Optimized UI/UX and application performance.
+**CyberSecurity**
+- *Work in Progress*
 - [View Repository](...)
 
 
